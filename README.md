@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A guy that loves learning new and different stuff everyday specially about tech
+- 🤔 &nbsp; A guy who loves to learn new and different things everyday, specially about technology.
 - 🎓 &nbsp; Studying Computer engineering at UFBA.
-- 💼 &nbsp; Worked as a Graphic Designer and looking for an opportunity as FrontEnd Developer.
+- 💼 &nbsp; Looking for an opportunity as a FrontEnd Developer.
 - 🌱 &nbsp; Learning more about Web Development, Javascript and ReactJS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
