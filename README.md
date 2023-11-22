@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; A guy who loves to learn new and different things everyday, specially about technology.
 - 🎓 &nbsp; Studying Computer engineering at UFBA.
-- 💼 &nbsp; Looking for an opportunity as a FrontEnd Developer.
+- 💼 &nbsp; FrontEnd Developer at Betalabs.
 - 🌱 &nbsp; Learning more about Web Development, Javascript and ReactJS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
